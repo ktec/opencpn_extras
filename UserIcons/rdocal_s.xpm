@@ -1,0 +1,29 @@
+/* XPM */
+static char *rdocal_s[] = {
+/* columns rows colors chars-per-pixel */
+"13 20 3 1",
+"  c black",
+". c #B200FF",
+"X c None",
+/* pixels */
+"XXXXX...XXXXX",
+"XX...XXX...XX",
+"X.XXXXXXXXX.X",
+"X.XXXXXXXXX.X",
+"X.XXXXXXXXX.X",
+".XXXXXXXXXXX.",
+".XXXXXXXXXXX.",
+"X.XXXXXXXXX.X",
+"X.XXXXXXXXX.X",
+"X.XXXXXXXXX.X",
+"XX...XXX...XX",
+"XX.XX...XX.XX",
+"XX.XXXXXXX.XX",
+"XXX.XXXXX.XXX",
+"XXX.XXXXX.XXX",
+"XXXX.XXX.XXXX",
+"XXXXX.X.XXXXX",
+"XXXXX.X.XXXXX",
+"XXXXXX.XXXXXX",
+"XXXXXX.XXXXXX"
+};
