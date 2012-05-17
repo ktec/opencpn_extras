@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document><name>Solent waypoints 2012</name>
+<Style id="routeStyle"><LineStyle><color>FF009900</color><width>1</width></LineStyle></Style>
+<Style id="pathStyle"><LineStyle><color>FFFF0000</color><width>1</width></LineStyle></Style>
+<Style id="waypntStyle"><IconStyle><scale>  1.00</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/><color>FF0000FF</color></IconStyle></Style>
+<Style id="trkpntStyle"><IconStyle><scale>  1.00</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-diamond.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/><color>FF990000</color></IconStyle></Style>
+<Folder>
+<name>Waypoints</name>
+<Placemark>
+<name>1F NEEDLES</name>
+<description></description>
+<Point><coordinates>-1.649667,50.637333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1G SOUTHWE</name>
+<description></description>
+<Point><coordinates>-1.623167,50.655833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1H BRIDGE</name>
+<description></description>
+<Point><coordinates>-1.614667,50.660500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1J SHINGLE</name>
+<description></description>
+<Point><coordinates>-1.600833,50.672833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1K NORTHHE</name>
+<description></description>
+<Point><coordinates>-1.592000,50.711500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1L NEEDLES</name>
+<description></description>
+<Point><coordinates>-1.592000,50.662167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1M WARDEN</name>
+<description></description>
+<Point><coordinates>-1.559167,50.691333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1N NORTHEA</name>
+<description></description>
+<Point><coordinates>-1.556833,50.699333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>20 SCONCE</name>
+<description></description>
+<Point><coordinates>-1.523833,50.708833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>21 BLACKRO</name>
+<description></description>
+<Point><coordinates>-1.509833,50.709500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>22 GEORGEH</name>
+<description></description>
+<Point><coordinates>-1.490000,50.714333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>24 BWMOORI</name>
+<description></description>
+<Point><coordinates>-1.473667,50.714333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>25 HARKEN</name>
+<description></description>
+<Point><coordinates>-1.458167,50.719167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>26 HAMSTEA</name>
+<description></description>
+<Point><coordinates>-1.436333,50.731167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2A ECHOPIL</name>
+<description></description>
+<Point><coordinates>-1.542167,50.713167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2B DUNFORD</name>
+<description></description>
+<Point><coordinates>-1.525667,50.723000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2C COLTEN</name>
+<description></description>
+<Point><coordinates>-1.514333,50.730500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2F BERTHON</name>
+<description></description>
+<Point><coordinates>-1.487000,50.736667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2H PAULJAC</name>
+<description></description>
+<Point><coordinates>-1.469333,50.738333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2J FOLKBOA</name>
+<description></description>
+<Point><coordinates>-1.455667,50.751833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2K QUODPOS</name>
+<description></description>
+<Point><coordinates>-1.434833,50.747167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2R AQUASPE</name>
+<description></description>
+<Point><coordinates>-1.431500,50.757167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2T LYMINGT</name>
+<description></description>
+<Point><coordinates>-1.514167,50.718333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>2X SOLENTB</name>
+<description></description>
+<Point><coordinates>-1.456167,50.737167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>30 RORC</name>
+<description></description>
+<Point><coordinates>-1.295333,50.785333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>31 SOUTHBR</name>
+<description></description>
+<Point><coordinates>-1.295333,50.783000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>32 SNOWDEN</name>
+<description></description>
+<Point><coordinates>-1.295833,50.770000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>33 PRINCEC</name>
+<description></description>
+<Point><coordinates>-1.293167,50.773667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3A WESTLEP</name>
+<description></description>
+<Point><coordinates>-1.401500,50.754000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3B EDIGITA</name>
+<description></description>
+<Point><coordinates>-1.396500,50.736333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3C GARMIN</name>
+<description></description>
+<Point><coordinates>-1.385333,50.760667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3D SALTMEA</name>
+<description></description>
+<Point><coordinates>-1.384000,50.742000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3E COWESRA</name>
+<description></description>
+<Point><coordinates>-1.369833,50.768833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3F ELEPHAN</name>
+<description></description>
+<Point><coordinates>-1.364667,50.743833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3G RAYMARI</name>
+<description></description>
+<Point><coordinates>-1.357667,50.776333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3H EASTLEP</name>
+<description></description>
+<Point><coordinates>-1.351167,50.765500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3J BAXTERS</name>
+<description></description>
+<Point><coordinates>-1.344833,50.753833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3K LEPESPI</name>
+<description></description>
+<Point><coordinates>-1.344000,50.779667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3L GURNARD</name>
+<description></description>
+<Point><coordinates>-1.343167,50.758500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3M COWESDI</name>
+<description></description>
+<Point><coordinates>-1.335667,50.760333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3N QUINNEL</name>
+<description></description>
+<Point><coordinates>-1.331333,50.784500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3P CITYMAI</name>
+<description></description>
+<Point><coordinates>-1.329333,50.763000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3Q GURNARD</name>
+<description></description>
+<Point><coordinates>-1.324167,50.766167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3R NORTHEA</name>
+<description></description>
+<Point><coordinates>-1.323667,50.784333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3S ROYALTH</name>
+<description></description>
+<Point><coordinates>-1.320833,50.796833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3T KMS</name>
+<description></description>
+<Point><coordinates>-1.314500,50.768333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3U GURNARD</name>
+<description></description>
+<Point><coordinates>-1.314000,50.770333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3V WESTBRA</name>
+<description></description>
+<Point><coordinates>-1.310833,50.786667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3W WILLIAM</name>
+<description></description>
+<Point><coordinates>-1.309167,50.786667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3X ISLANDS</name>
+<description></description>
+<Point><coordinates>-1.307167,50.768333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3Y WESTKNO</name>
+<description></description>
+<Point><coordinates>-1.297333,50.790500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>3Z TRINITY</name>
+<description></description>
+<Point><coordinates>-1.295833,50.771833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>40 FASTNET</name>
+<description></description>
+<Point><coordinates>-1.227500,50.794333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>41 EASTBRA</name>
+<description></description>
+<Point><coordinates>-1.227333,50.787167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>42 PEELBAN</name>
+<description></description>
+<Point><coordinates>-1.222333,50.758167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>43 MACKLEY</name>
+<description></description>
+<Point><coordinates>-1.218167,50.769333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>44 GOODACR</name>
+<description></description>
+<Point><coordinates>-1.201667,50.788500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>45 SOUTHEA</name>
+<description></description>
+<Point><coordinates>-1.201500,50.765500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>46 NORTHEA</name>
+<description></description>
+<Point><coordinates>-1.198000,50.770167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4A REACH</name>
+<description></description>
+<Point><coordinates>-1.294167,50.817500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4B CORONAT</name>
+<description></description>
+<Point><coordinates>-1.293667,50.825833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4C STORMFO</name>
+<description></description>
+<Point><coordinates>-1.291000,50.820167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4D CALSHOT</name>
+<description></description>
+<Point><coordinates>-1.283833,50.807333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4E ROYALLO</name>
+<description></description>
+<Point><coordinates>-1.283333,50.794500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4F AIRCANA</name>
+<description></description>
+<Point><coordinates>-1.283333,50.786667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4G CUTTER</name>
+<description></description>
+<Point><coordinates>-1.281833,50.824167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4H EASTKNO</name>
+<description></description>
+<Point><coordinates>-1.280500,50.799333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4J WIGHTVO</name>
+<description></description>
+<Point><coordinates>-1.277500,50.810500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4K SEAFARE</name>
+<description></description>
+<Point><coordinates>-1.277500,50.769167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4L WILLIAM</name>
+<description></description>
+<Point><coordinates>-1.274833,50.817167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4M HILLHEA</name>
+<description></description>
+<Point><coordinates>-1.266667,50.801167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4N FLYINGF</name>
+<description></description>
+<Point><coordinates>-1.265000,50.787833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4P WESTRYD</name>
+<description></description>
+<Point><coordinates>-1.263167,50.774667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4Q SOUTHCO</name>
+<description></description>
+<Point><coordinates>-1.262000,50.807667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4R MEON</name>
+<description></description>
+<Point><coordinates>-1.261833,50.819667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4S ROYALSO</name>
+<description></description>
+<Point><coordinates>-1.259500,50.814667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4T NORRIS</name>
+<description></description>
+<Point><coordinates>-1.258500,50.766167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4U SUNSAIL</name>
+<description></description>
+<Point><coordinates>-1.251500,50.773833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4V HAMBLEY</name>
+<description></description>
+<Point><coordinates>-1.244000,50.802167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4W UNIVERS</name>
+<description></description>
+<Point><coordinates>-1.243167,50.788833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4X PETERSM</name>
+<description></description>
+<Point><coordinates>-1.239833,50.758833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4Y NORTHRY</name>
+<description></description>
+<Point><coordinates>-1.238500,50.776833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>4Z SOUTHRY</name>
+<description></description>
+<Point><coordinates>-1.236000,50.768833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5A CRAFTIN</name>
+<description></description>
+<Point><coordinates>-1.198167,50.750500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5B MOTHERB</name>
+<description></description>
+<Point><coordinates>-1.186833,50.758167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5C BROWNDO</name>
+<description></description>
+<Point><coordinates>-1.182500,50.776167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5D KEMPSQU</name>
+<description></description>
+<Point><coordinates>-1.160833,50.753000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5E DARLING</name>
+<description></description>
+<Point><coordinates>-1.146000,50.771000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5F NORTHST</name>
+<description></description>
+<Point><coordinates>-1.137167,50.755500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5G RNCRAYC</name>
+<description></description>
+<Point><coordinates>-1.131667,50.773667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5H NAOMIHO</name>
+<description></description>
+<Point><coordinates>-1.122500,50.780333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5J KBBOATP</name>
+<description></description>
+<Point><coordinates>-1.121500,50.776833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5K BAESYST</name>
+<description></description>
+<Point><coordinates>-1.113000,50.784667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5L PLANELE</name>
+<description></description>
+<Point><coordinates>-1.108333,50.739167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5M GLEEDS</name>
+<description></description>
+<Point><coordinates>-1.106500,50.769333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5N MARYROS</name>
+<description></description>
+<Point><coordinates>-1.103333,50.763333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5P VAILWIL</name>
+<description></description>
+<Point><coordinates>-1.099667,50.775167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5Q OUTERSP</name>
+<description></description>
+<Point><coordinates>-1.091667,50.759667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5R HORSESA</name>
+<description></description>
+<Point><coordinates>-1.087833,50.758833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>5S SADDLEB</name>
+<description></description>
+<Point><coordinates>-1.083333,50.753333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6A NOMANSL</name>
+<description></description>
+<Point><coordinates>-1.095000,50.740000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6B HORSESA</name>
+<description></description>
+<Point><coordinates>-1.072333,50.750167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6C WARNER</name>
+<description></description>
+<Point><coordinates>-1.066500,50.731167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6D HORSEEL</name>
+<description></description>
+<Point><coordinates>-1.064667,50.737667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6E WESTPRI</name>
+<description></description>
+<Point><coordinates>-1.060833,50.669333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6F BEMBRID</name>
+<description></description>
+<Point><coordinates>-1.046833,50.685833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6G STHELEN</name>
+<description></description>
+<Point><coordinates>-1.040167,50.722667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6H DEANELB</name>
+<description></description>
+<Point><coordinates>-1.031333,50.728167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6J NABEAST</name>
+<description></description>
+<Point><coordinates>-1.013333,50.714333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6K HORSETA</name>
+<description></description>
+<Point><coordinates>-1.003833,50.720500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6L WINNER</name>
+<description></description>
+<Point><coordinates>-1.001667,50.751667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6M NABEND</name>
+<description></description>
+<Point><coordinates>-0.991500,50.710500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6N DEANTAI</name>
+<description></description>
+<Point><coordinates>-0.986167,50.716500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6P NEWGROU</name>
+<description></description>
+<Point><coordinates>-0.974833,50.697333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6R NABTOWE</name>
+<description></description>
+<Point><coordinates>-0.952500,50.668000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>6S OUTERNA</name>
+<description></description>
+<Point><coordinates>-0.961667,50.640500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>70 CATHEAD</name>
+<description></description>
+<Point><coordinates>-1.320667,50.843500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>71 MARK</name>
+<description></description>
+<Point><coordinates>-1.315667,50.826000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>72 HAMBLEP</name>
+<description></description>
+<Point><coordinates>-1.311000,50.835833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>73 BALDHEA</name>
+<description></description>
+<Point><coordinates>-1.301167,50.830000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>74 SPOSA</name>
+<description></description>
+<Point><coordinates>-1.293167,50.827667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7A GYMP</name>
+<description></description>
+<Point><coordinates>-1.405000,50.886167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7B HYTHEKN</name>
+<description></description>
+<Point><coordinates>-1.396833,50.880500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7C NO1SWIN</name>
+<description></description>
+<Point><coordinates>-1.390667,50.883333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7D WESTONS</name>
+<description></description>
+<Point><coordinates>-1.387667,50.878500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7E HYTHE5</name>
+<description></description>
+<Point><coordinates>-1.386333,50.870667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7F JIB</name>
+<description></description>
+<Point><coordinates>-1.384333,50.882667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7G HYTHE4</name>
+<description></description>
+<Point><coordinates>-1.385000,50.869833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7H MOORHEA</name>
+<description></description>
+<Point><coordinates>-1.381667,50.875833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7J DEANSEL</name>
+<description></description>
+<Point><coordinates>-1.379333,50.869333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7K NWNETLE</name>
+<description></description>
+<Point><coordinates>-1.378833,50.871833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7L HOVERCR</name>
+<description></description>
+<Point><coordinates>-1.373833,50.877500,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7M BIRDPIL</name>
+<description></description>
+<Point><coordinates>-1.372167,50.862000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7N ROYALSO</name>
+<description></description>
+<Point><coordinates>-1.371333,50.862667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7P HOVERCR</name>
+<description></description>
+<Point><coordinates>-1.366667,50.873833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7Q NETLEY</name>
+<description></description>
+<Point><coordinates>-1.363500,50.867167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7R LAINSLA</name>
+<description></description>
+<Point><coordinates>-1.360833,50.859833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7S DEANSLA</name>
+<description></description>
+<Point><coordinates>-1.359833,50.856667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7T HOVERCR</name>
+<description></description>
+<Point><coordinates>-1.359500,50.870000,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7U HOUND</name>
+<description></description>
+<Point><coordinates>-1.358667,50.861333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7V HOVERCR</name>
+<description></description>
+<Point><coordinates>-1.353667,50.867167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7W AFTERBA</name>
+<description></description>
+<Point><coordinates>-1.347000,50.858833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7X HAMBLEC</name>
+<description></description>
+<Point><coordinates>-1.342500,50.854667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7Y CADLAND</name>
+<description></description>
+<Point><coordinates>-1.342333,50.850333,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>7Z GREENLA</name>
+<description></description>
+<Point><coordinates>-1.339667,50.851833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1A PEVERIL</name>
+<description></description>
+<Point><coordinates>-1.935000,50.606833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1B POOLEBA</name>
+<description></description>
+<Point><coordinates>-1.919333,50.655167,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1C COLEMAN</name>
+<description></description>
+<Point><coordinates>-1.900333,50.671833,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>1E BARNESI</name>
+<description></description>
+<Point><coordinates>-1.691667,50.692667,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+<Placemark>
+<name>WINNINGTID</name>
+<description></description>
+<Point><coordinates>-1.320833,50.760433,0</coordinates>
+</Point>
+<styleUrl>#waypntStyle</styleUrl></Placemark>
+</Folder>
+</Document>
+</kml>

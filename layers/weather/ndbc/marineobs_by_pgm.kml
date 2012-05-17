@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+        <name>Marine Obs via NDBC</name>
+        <atom:author>      
+                <atom:name>NOAA National Data Buoy Center (NDBC)</atom:name>    
+        </atom:author>    
+        <atom:link href="http://www.ndbc.noaa.gov/" /> 
+        <visibility>1</visibility>
+        <open>1</open>
+        <NetworkLink>
+                <name>Marine Obs by Program</name>
+                <open>1</open>
+                <refreshVisibility>0</refreshVisibility>
+                <flyToView>0</flyToView>
+                <Link>
+                        <href>http://www.ndbc.noaa.gov/kml/marineobs_as_kml.php?sort=pgm</href>
+                        <refreshMode>onInterval</refreshMode>
+                        <refreshInterval>1800</refreshInterval>
+                        <viewRefreshMode>never</viewRefreshMode>
+                </Link>
+        </NetworkLink>
+</Document>
+</kml>
+
