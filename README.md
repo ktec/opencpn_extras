@@ -16,3 +16,17 @@ We absolutely welcome additions, so feel free to fork and add/move where necessa
 
 thanks
 ktec
+
+
+=Other fantastic links:
+
+https://github.com/OpenCPN/OpenCPN
+https://github.com/bdbcat/OpenCPN
+https://github.com/nohal/OpenCPNScripts
+http://opencpn.xtr.cz
+
+=Plugins
+
+https://github.com/nohal/wmm_pi
+https://github.com/nohal/survey_pi
+
