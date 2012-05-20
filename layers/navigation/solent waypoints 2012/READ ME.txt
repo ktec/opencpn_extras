@@ -1,3 +1,0 @@
-Expedition use gpx format and from the 'marks' tab use the import button far right...
-
-YOU MUST CHECK ALL WAYPOINTS BEFORE YOU USE THEM. 

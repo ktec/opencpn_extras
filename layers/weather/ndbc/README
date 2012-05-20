@@ -1,3 +1,0 @@
-This script will download the latest list of buoys from the National Data Buoy Center
-and convert it to gpx format, and copy the file to the layers directory,
-ready to be used as a layer in OpenCPN.

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<HistoryDatabase xmlns="http://www.garmin.com/xmlschemas/HistoryDatabase/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/HistoryDatabase/v1 http://www.garmin.com/xmlschemas/HistoryDatabasev1.xsd">
-<Running Name="Running"/>
-<Biking Name="Biking"/>
-<Other Name="Other">
-</Other>
-<MultiSport Name="MultiSport"/>
-</HistoryDatabase>

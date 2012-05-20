@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Utility 5.11 - http://www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<wpt lat="50.804667" lon="-1.281667"><name>8L</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.787000" lon="-1.274333"><name>8M</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.795000" lon="-1.254167"><name>8N</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.788333" lon="-1.254167"><name>8P</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.804667" lon="-1.253500"><name>8Q</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.810667" lon="-1.250000"><name>8R</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.762000" lon="-1.249167"><name>8S</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.772167" lon="-1.241667"><name>8T</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.798333" lon="-1.236667"><name>8U</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.804667" lon="-1.233000"><name>8V</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.773333" lon="-1.226333"><name>8W</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.791167" lon="-1.215000"><name>8X</name><sym>Waypoint</sym></wpt>
+<wpt lat="50.783333" lon="-1.188333"><name>8Y</name><sym>Waypoint</sym></wpt>
+
+</gpx>
