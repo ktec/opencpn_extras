@@ -29,9 +29,7 @@ https://github.com/nohal/survey_pi
 https://github.com/nohal/gecomapi_pi
 https://github.com/nohal/connector_pi
 https://github.com/konnibe/LogbookKonni
-
-
-
+https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi
 
 
 Author Note 
