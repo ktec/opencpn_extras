@@ -1,7 +1,7 @@
 opencpn_extras
 ==============
 
-Set of extra files for use with OpenCPN
+Complimentary files for use with OpenCPN
 
 As the repository grows we'll improve the directory structure. 
 
