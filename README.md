@@ -26,6 +26,10 @@ Plugins
 
 https://github.com/nohal/wmm_pi
 https://github.com/nohal/survey_pi
+https://github.com/nohal/gecomapi_pi
+https://github.com/nohal/connector_pi
+https://github.com/konnibe/LogbookKonni
+
 
 
 
