@@ -5,31 +5,31 @@ Set of extra files for use with OpenCPN
 
 As the repository grows we'll improve the directory structure. 
 
-+ icons
-	to use these icons copy to your opencpn config directory
-+ navigation
-	waypoints/nav marks useful for navigational purposes
-+ weather
-	layers relating to weather services or features
+* icons
+	> to use these icons copy to your opencpn config directory
+* navigation
+	> waypoints/nav marks useful for navigational purposes
+* weather
+	> layers relating to weather services or features
 
 
 Other great links
 -----------------
 
-https://github.com/OpenCPN/OpenCPN
-https://github.com/bdbcat/OpenCPN
-https://github.com/nohal/OpenCPNScripts
-http://opencpn.xtr.cz
+- https://github.com/OpenCPN/OpenCPN
+- https://github.com/bdbcat/OpenCPN
+- https://github.com/nohal/OpenCPNScripts
+- http://opencpn.xtr.cz
 
 Plugins
 -------
 
-https://github.com/nohal/wmm_pi
-https://github.com/nohal/survey_pi
-https://github.com/nohal/gecomapi_pi
-https://github.com/nohal/connector_pi
-https://github.com/konnibe/LogbookKonni
-https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi
+- https://github.com/nohal/wmm_pi
+- https://github.com/nohal/survey_pi
+- https://github.com/nohal/gecomapi_pi
+- https://github.com/nohal/connector_pi
+- https://github.com/konnibe/LogbookKonni
+- https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi
 
 
 Author Note 
