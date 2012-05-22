@@ -1,10 +1,13 @@
 #!/bin/bash
 
-if [ -e ./list.html ]; then
-	CHART_LIST="`cat ./topo50list.html`"
+LISTNAME='topo50list.html'
+
+if [ -e ./${LISTNAME} ]; then
+	CHART_LIST="`cat ./${LISTNAME}`"
 else
 	CHART_LIST="`curl http://www.namria.gov.ph/topo50Index.aspx`"
-	echo "$CHART_LIST" > topo50list.html
+	echo "$CHART_LIST" > ${LISTNAME}
 fi
 
-echo "$CHART_LIST"  | grep '<area.*\/>' | sed 's/.*href="\([^"]*\)".*/\1/g'
+curl --remote-name-all -K $(echo "$CHART_LIST"  | grep '<area.*\/>' | sed 's/.*href="\([^"]*\)".*/http:\/\/www.namria.gov.ph\/\1/g' | sed 's/ //g' | sed 's/<br>//g' | sed 's/>//g')
+
