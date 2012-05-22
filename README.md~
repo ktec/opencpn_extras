@@ -5,7 +5,6 @@ Complimentary files for use with OpenCPN
 
 As the repository grows we'll improve the directory structure. 
 
-* charts > various scripts to download charts from the internet
 * icons > to use these icons copy to your opencpn config directory
 * navigation > waypoints/nav marks useful for navigational purposes
 * tides > data files for tide calculations
