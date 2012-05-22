@@ -1,10 +1,14 @@
 These scripts will help to download MOST of the topographic charts 
 provided free on the NAMRIA website.
 
+"The NTMS at scale 1:50,000 is starting to replace both S711 and S701 maps. 
+It covers the whole Philippines in 672 sheets. Maps are in 15' x 15' interval. 
+Elevation is expressed in 20-meter contour line interval."
+
 NOTE: Please note that there are errors with the webpage links so 
 not ALL charts will be downloaded with this script. The errors have
 been reported to the website, so perhaps in the future this notice 
-can be removed. 
+can be removed. The following error could not be auto-corrected:
 
 1.  <area shape="rect" coords="399,489,409,495" href=".html" target="_blank" alt="Philippine Topographic Map Scale 1:50,000" onmouseover="Tip('<div style=\'text-align:center;\'>Sheet No. 4150-III<br>Wilson</div>')" onmouseout="UnTip()" />
 

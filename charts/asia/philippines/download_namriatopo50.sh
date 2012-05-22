@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm *.jpg
+
 LISTNAME='topo50list.html'
 
 if [ -e ./${LISTNAME} ]; then
@@ -9,5 +11,7 @@ else
 	echo "$CHART_LIST" > ${LISTNAME}
 fi
 
-curl --remote-name-all -K $(echo "$CHART_LIST"  | grep '<area.*\/>' | sed 's/.*href="\([^"]*\)".*/http:\/\/www.namria.gov.ph\/\1/g' | sed 's/ //g' | sed 's/<br>//g' | sed 's/>//g')
+LIST=$(echo "$CHART_LIST"  | grep '<area.*\/>' | sed 's/.*href="\([^"]*\)".*/http:\/\/www.namria.gov.ph\/Downloads\/topoMap50\/\1/g' | sed 's/ //g' | sed 's/<br>//g' | sed 's/>//g' | sed 's/\.html/\.jpg/g')
+
+curl --remote-name-all -K $LIST
 
