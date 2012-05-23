@@ -19,6 +19,7 @@ Other great links
 - https://github.com/bdbcat/OpenCPN
 - https://github.com/nohal/OpenCPNScripts
 - http://opencpn.xtr.cz
+- http://redmine.kalian.cz/projects/opencpn/wiki/ToDo
 
 Plugins
 -------

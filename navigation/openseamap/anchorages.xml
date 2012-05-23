@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. It has there been collected by a large group of contributors. For individual attribution of each item please refer to http://www.openstreetmap.org/api/0.6/[node|way|relation]/#id/history </note>
+<meta osm_base="2012-05-22T06:26:02Z"/>
+
+  <node id="31628398" lat="43.2648047" lon="-8.9606493">
+    <tag k="source" v="PGS"/>
+  </node>
+  <node id="31631380" lat="43.2649405" lon="-8.9606619">
+    <tag k="source" v="PGS"/>
+  </node>
+  <node id="332280282" lat="44.6566868" lon="14.2579099">
+    <tag k="seamark:anchorage:category" v="small_craft"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="557192588" lat="36.5822220" lon="26.4222220">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Agrolithi"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="557192592" lat="36.6191670" lon="26.4041670">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Porto Vathy"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="558708494" lat="36.5743716" lon="26.3863765">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Ormos Maltezana"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="659823806" lat="43.9705977" lon="15.1165771">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Zmanscica"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="660186595" lat="43.8914576" lon="15.1597429">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Mir"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="676581845" lat="-33.1667308" lon="18.0582511">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Stofbergsfontein"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="694828519" lat="55.0679247" lon="10.2536948">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="695362904" lat="55.0137041" lon="10.3157035">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="695362907" lat="55.0061098" lon="10.3423637">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="695362910" lat="55.0599005" lon="10.3169678">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="695364029" lat="55.0432334" lon="9.7025898">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="704618394" lat="50.4920338" lon="7.3219438">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Brohl-Lützing"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="823750387" lat="21.1399837" lon="-73.5756813">
+    <tag k="addr:country" v="BS"/>
+    <tag k="is_in" v="Great Inagua Island, Bahamas"/>
+    <tag k="name" v="Alfred Sound Harbour"/>
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Alfred Sound Harbour"/>
+    <tag k="seamark:type" v="anchorage"/>
+    <tag k="source" v="http://www.theinaguas.com/harbour.php"/>
+  </node>
+  <node id="876408047" lat="54.9040770" lon="10.5956408">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="879665934" lat="50.6812150" lon="-1.5589725">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:anchorage:category" v="small_craft"/>
+    <tag k="seamark:name" v="Totland Bay"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="976075376" lat="44.0816894" lon="14.9959706">
+    <tag k="description" v="Kostenpflichtiger Ankerplatz"/>
+    <tag k="name:de" v="Bucht Lučina 1, Brbinj Nord, Dugi Otok"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="977697288" lat="43.2648366" lon="-8.9608380"/>
+  <node id="977697517" lat="43.2648818" lon="-8.9606016"/>
+  <node id="1084798538" lat="43.2649162" lon="-8.9607031"/>
+  <node id="1084798553" lat="43.2648621" lon="-8.9607948"/>
+  <node id="1324677665" lat="43.0958673" lon="16.7083402">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:information" v="Restaurant mit zwei Festmacherbojen"/>
+    <tag k="seamark:name" v="Manastir"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1324677666" lat="43.0945338" lon="16.7003875">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:information" v="am besten mit Landfeste"/>
+    <tag k="seamark:name" v="Lovisce"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1339597403" lat="39.6610478" lon="19.8559353">
+    <tag k="category" v="anchorage"/>
+    <tag k="harbour" v="yes"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1380342947" lat="48.8043333" lon="-3.3978333">
+    <tag k="name" v="Nantouar"/>
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Nantouar"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1380342966" lat="48.8176667" lon="-3.3860000">
+    <tag k="name" v="Port L'épine"/>
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Port L'épine"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1380342991" lat="48.8271667" lon="-3.3603333">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Trestel"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1381618427" lat="45.4371711" lon="13.5204743">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Umag"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1382680326" lat="43.8982215" lon="15.2170404">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1388181384" lat="43.8766780" lon="15.3128977">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1390458366" lat="44.6613503" lon="14.2657839">
+    <tag k="seamark:anchorage:category" v="small_craft"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1390458367" lat="44.6753191" lon="14.2579295">
+    <tag k="seamark:anchorage:category" v="small_craft"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1423378962" lat="54.3038700" lon="13.1168986">
+    <tag k="name" v="Dalben"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1423378971" lat="54.3088912" lon="13.1092907">
+    <tag k="name" v="Dalben"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1494054963" lat="48.4441622" lon="-4.7803132">
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:name" v="Porspaul"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1598953760" lat="44.1380449" lon="14.8584682">
+    <tag k="leisure" v="marina"/>
+    <tag k="name" v="Uvala Čuna"/>
+    <tag k="name:de" v="Bucht Čuna II (Veli Rat), Dugi Otok"/>
+    <tag k="seamark:anchorage:category" v="small_craft"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1605627188" lat="42.4900000" lon="27.5333333"/>
+  <node id="1605627197" lat="42.4900000" lon="27.5566667"/>
+  <node id="1605627198" lat="42.5000000" lon="27.5333333"/>
+  <node id="1605627200" lat="42.5000000" lon="27.5566667"/>
+  <node id="1607242002" lat="42.4616667" lon="27.5366667"/>
+  <node id="1607242003" lat="42.4633333" lon="27.5433333"/>
+  <node id="1607242004" lat="42.4700000" lon="27.5366667"/>
+  <node id="1607242005" lat="42.4700000" lon="27.5433333"/>
+  <node id="1610423668" lat="57.6923335" lon="-2.6983672">
+    <tag k="name" v="Recommended Anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1610436663" lat="57.6836167" lon="-2.3421333">
+    <tag k="name" v="Recommended Anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1668437915" lat="43.1966667" lon="27.9633333"/>
+  <node id="1668437919" lat="43.2000000" lon="28.0000000"/>
+  <node id="1668437924" lat="43.2083333" lon="27.9633333"/>
+  <node id="1668437928" lat="43.2133333" lon="28.0000000"/>
+  <node id="1670986047" lat="43.1131667" lon="27.9650000"/>
+  <node id="1670986054" lat="43.1171667" lon="27.9456667"/>
+  <node id="1670986057" lat="43.1496667" lon="27.9690000"/>
+  <node id="1670986058" lat="43.1550000" lon="27.9516667"/>
+  <node id="1753900425" lat="43.7227041" lon="15.4327090">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1753900426" lat="43.7559087" lon="15.3534056">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1753900427" lat="43.7565173" lon="15.3683140">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1753900428" lat="43.7863943" lon="15.3386612">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1753933051" lat="43.8163919" lon="15.2920200">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1753933057" lat="43.8227732" lon="15.2541516">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <node id="1753933058" lat="43.8254750" lon="15.2749651">
+    <tag k="seamark:type" v="anchorage"/>
+  </node>
+  <way id="93549066">
+    <nd ref="977697288"/>
+    <nd ref="1084798553"/>
+    <nd ref="1084798538"/>
+    <nd ref="31631380"/>
+    <nd ref="977697517"/>
+    <nd ref="31628398"/>
+    <nd ref="977697288"/>
+    <tag k="anchorage:note" v="FIXME"/>
+    <tag k="area" v="yes"/>
+    <tag k="seamark" v="anchorage"/>
+    <tag k="seamark:type" v="anchorage"/>
+    <tag k="source" v="PNOA"/>
+  </way>
+  <way id="147349027">
+    <nd ref="1605627198"/>
+    <nd ref="1605627200"/>
+    <nd ref="1605627197"/>
+    <nd ref="1605627188"/>
+    <nd ref="1605627198"/>
+    <tag k="seamark:anchorage:information" v="Vessels with LOA over 150 m"/>
+    <tag k="seamark:name" v="Anchorage No.3"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </way>
+  <way id="147508685">
+    <nd ref="1607242002"/>
+    <nd ref="1607242004"/>
+    <nd ref="1607242005"/>
+    <nd ref="1607242003"/>
+    <nd ref="1607242002"/>
+    <tag k="seamark:anchorage:category" v="quarantine"/>
+    <tag k="seamark:anchorage:information" v="Qurantine anchorage"/>
+    <tag k="seamark:name" v="Anchorage No.5"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </way>
+  <way id="154286209">
+    <nd ref="1668437919"/>
+    <nd ref="1668437928"/>
+    <nd ref="1668437924"/>
+    <nd ref="1668437915"/>
+    <nd ref="1668437919"/>
+    <tag k="seamark:name" v="Anchorage No.1"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </way>
+  <way id="154562198">
+    <nd ref="1670986047"/>
+    <nd ref="1670986057"/>
+    <nd ref="1670986058"/>
+    <nd ref="1670986054"/>
+    <nd ref="1670986047"/>
+    <tag k="seamark:name" v="Anchorage No.2"/>
+    <tag k="seamark:type" v="anchorage"/>
+  </way>
+
+</osm>
