@@ -31,6 +31,12 @@ Plugins
 - https://github.com/konnibe/LogbookKonni
 - https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi
 
+Multiplex Software
+------------------
+
+- http://marinux.pk973.org/
+- https://launchpad.net/ubuntu/+source/gypsy
+
 
 Author Note 
 -----------
