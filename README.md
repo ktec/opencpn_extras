@@ -24,12 +24,15 @@ Other great links
 Plugins
 -------
 
-- https://github.com/nohal/wmm_pi
-- https://github.com/nohal/survey_pi
-- https://github.com/nohal/gecomapi_pi
-- https://github.com/nohal/connector_pi
-- https://github.com/konnibe/LogbookKonni
-- https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi
+- KML Overlay Plugin - https://github.com/OpenCPN/OpenCPN/tree/KMLOverlay
+- World Magnetic Model Plugin - https://github.com/nohal/wmm_pi
+- Survey Plugin - https://github.com/nohal/survey_pi
+- Google Earth Plugin - https://github.com/nohal/gecomapi_pi
+- Connector Plugin - https://github.com/nohal/connector_pi
+- LogBook Plugin - https://github.com/konnibe/LogbookKonni
+- Voyage Data Recorder Plugin - https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi
+- AIS Radar View Plugin - http://sourceforge.net/projects/aisradarviewpi/
+
 
 Multiplex Software
 ------------------
