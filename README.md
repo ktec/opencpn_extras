@@ -20,6 +20,7 @@ Other great links
 - https://github.com/nohal/OpenCPNScripts
 - http://opencpn.xtr.cz
 - http://redmine.kalian.cz/projects/opencpn/wiki/ToDo
+- http://journeyman.se/opencpn/s57data.zip
 
 Plugins
 -------
@@ -39,6 +40,19 @@ Multiplex Software
 
 - http://marinux.pk973.org/
 - https://launchpad.net/ubuntu/+source/gypsy
+
+
+Sources of Data
+---------------
+
+Tides: 
+- ftp://ftp.bsh.de/Stroemungsvorhersagen
+
+
+GIS Software
+------------
+
+- http://freegis.org/database/?cat=0
 
 
 Author Note 
