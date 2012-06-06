@@ -33,6 +33,7 @@ Plugins
 - LogBook Plugin - https://github.com/konnibe/LogbookKonni
 - Voyage Data Recorder Plugin - https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi
 - AIS Radar View Plugin - http://sourceforge.net/projects/aisradarviewpi/
+- FindIt - https://github.com/konnibe/FindIt_pi
 
 
 Multiplex Software
