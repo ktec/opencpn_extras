@@ -46,8 +46,8 @@ Multiplex Software
 Sources of Data
 ---------------
 
-Tides: 
-- ftp://ftp.bsh.de/Stroemungsvorhersagen
+British Oceanographic Data Center - https://www.bodc.ac.uk/data/online_delivery/nodb/
+Tides - ftp://ftp.bsh.de/Stroemungsvorhersagen
 
 
 GIS Software
