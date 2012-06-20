@@ -21,6 +21,7 @@ Other great links
 - http://opencpn.xtr.cz
 - http://redmine.kalian.cz/projects/opencpn/wiki/ToDo
 - http://journeyman.se/opencpn/s57data.zip
+- https://github.com/ngacharts/ngacharts
 
 Plugins
 -------
@@ -35,6 +36,16 @@ Plugins
 - AIS Radar View Plugin - http://sourceforge.net/projects/aisradarviewpi/
 - FindIt - https://github.com/konnibe/FindIt_pi
 
+Points of Interest
+------------------
+
+- http://www.4shared.com/folder/HYALDWrf/POI_ARCHIVE.html (Tore/sinbad7's POI archive)
+- http://www.4shared.com/folder/w-CjtGLb/VIDEOS.html (Tore/sinbad7's Video archive)
+
+Chart Sources
+-------------
+
+- http://archive.org/details/maps_usgs
 
 Multiplex Software
 ------------------
