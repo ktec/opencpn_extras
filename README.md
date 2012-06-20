@@ -50,6 +50,7 @@ Chart Sources
 Multiplex Software
 ------------------
 
+- http://www.thomasknauf.de/seatalk.htm
 - http://marinux.pk973.org/
 - https://launchpad.net/ubuntu/+source/gypsy
 
