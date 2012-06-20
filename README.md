@@ -46,6 +46,8 @@ Chart Sources
 -------------
 
 - http://archive.org/details/maps_usgs
+- ftp://www.risserver.nl/ENC/ (Dutch Inland U5Inland)
+- ftp://www.risserver.nl/ENC/zeeland/ (Zeeland Inland 20120611_U6)
 
 Multiplex Software
 ------------------
