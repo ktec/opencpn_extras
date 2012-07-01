@@ -15,60 +15,60 @@ As the repository grows we'll improve the directory structure.
 Other great links
 -----------------
 
-[OpenCPN Github Source](https://github.com/OpenCPN/OpenCPN)
-[Dave's Github Branch](https://github.com/bdbcat/OpenCPN)
-[Pavel's OpenCPNScripts Github](https://github.com/nohal/OpenCPNScripts)
-[Auto-calibrated Weather charts in BSB format](http://opencpn.xtr.cz)
-[Pavel's OpenCPN wiki](http://redmine.kalian.cz/projects/opencpn/wiki)
-[NGA Charts Github Project](https://github.com/ngacharts/ngacharts)
-[Journeyman's s57Data](http://journeyman.se/opencpn/s57data.zip)
+* [OpenCPN Github Source](https://github.com/OpenCPN/OpenCPN)
+* [Dave's Github Branch](https://github.com/bdbcat/OpenCPN)
+* [Pavel's OpenCPNScripts Github](https://github.com/nohal/OpenCPNScripts)
+* [Auto-calibrated Weather charts in BSB format](http://opencpn.xtr.cz)
+* [Pavel's OpenCPN wiki](http://redmine.kalian.cz/projects/opencpn/wiki)
+* [NGA Charts Github Project](https://github.com/ngacharts/ngacharts)
+* [Journeyman's s57Data](http://journeyman.se/opencpn/s57data.zip)
 
 Plugins
 -------
 
-[KML Overlay Plugin](https://github.com/OpenCPN/OpenCPN/tree/KMLOverlay)
-[World Magnetic Model Plugin](https://github.com/nohal/wmm_pi)
-[Survey Plugin](https://github.com/nohal/survey_pi)
-[Google Earth Plugin](https://github.com/nohal/gecomapi_pi)
-[Connector Plugin](https://github.com/nohal/connector_pi)
-[LogBook Plugin](https://github.com/konnibe/LogbookKonni)
-[Voyage Data Recorder Plugin](https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi)
-[AIS Radar View Plugin](http://sourceforge.net/projects/aisradarviewpi/)
-[FindIt](https://github.com/konnibe/FindIt_pi)
+* [KML Overlay Plugin](https://github.com/OpenCPN/OpenCPN/tree/KMLOverlay)
+* [World Magnetic Model Plugin](https://github.com/nohal/wmm_pi)
+* [Survey Plugin](https://github.com/nohal/survey_pi)
+* [Google Earth Plugin](https://github.com/nohal/gecomapi_pi)
+* [Connector Plugin](https://github.com/nohal/connector_pi)
+* [LogBook Plugin](https://github.com/konnibe/LogbookKonni)
+* [Voyage Data Recorder Plugin](https://github.com/OpenCPN/OpenCPN/tree/VDR/plugins/vdr_pi)
+* [AIS Radar View Plugin](http://sourceforge.net/projects/aisradarviewpi/)
+* [FindIt](https://github.com/konnibe/FindIt_pi)
 
 Points of Interest
 ------------------
 
-[Tore/sinbad7's POI archive](http://www.4shared.com/folder/HYALDWrf/POI_ARCHIVE.html)
-[Tore/sinbad7's Video archive](http://www.4shared.com/folder/w-CjtGLb/VIDEOS.html)
+* [Tore/sinbad7's POI archive](http://www.4shared.com/folder/HYALDWrf/POI_ARCHIVE.html)
+* [Tore/sinbad7's Video archive](http://www.4shared.com/folder/w-CjtGLb/VIDEOS.html)
 
 Chart Sources
 -------------
 
-[USGS Maps](http://archive.org/details/maps_usgs)
-[Dutch Inland U5Inland](ftp://www.risserver.nl/ENC/)
-[Zeeland Inland 20120611_U6](ftp://www.risserver.nl/ENC/zeeland/)
-[OceanGrafix Commercial Vendor](http://www.oceangrafix.com/search/byregion)
+* [USGS Maps](http://archive.org/details/maps_usgs)
+* [Dutch Inland U5Inland](ftp://www.risserver.nl/ENC/)
+* [Zeeland Inland 20120611_U6](ftp://www.risserver.nl/ENC/zeeland/)
+* [OceanGrafix Commercial Vendor](http://www.oceangrafix.com/search/byregion)
 
 Sources of Data
 ---------------
 
-[British Oceanographic Data Center](https://www.bodc.ac.uk/data/online_delivery/nodb/)
-[Grib files containing predicted surface currents of the North Sea and the Baltic](ftp://ftp.bsh.de/Stroemungsvorhersagen)
-[MyOcean](http://www.myocean.eu/web/24-catalogue.php)
-[Norwegian Meteorological Institute](http://met.no/)
+* [British Oceanographic Data Center](https://www.bodc.ac.uk/data/online_delivery/nodb/)
+* [Grib files containing predicted surface currents of the North Sea and the Baltic](ftp://ftp.bsh.de/Stroemungsvorhersagen)
+* [MyOcean](http://www.myocean.eu/web/24-catalogue.php)
+* [Norwegian Meteorological Institute](http://met.no/)
 
 GIS Software
 ------------
 
-- http://freegis.org/database/?cat=0
+* http://freegis.org/database/?cat=0
 
 Multiplex Software
 ------------------
 
-- http://www.thomasknauf.de/seatalk.htm
-- http://marinux.pk973.org/
-- https://launchpad.net/ubuntu/+source/gypsy
+* http://www.thomasknauf.de/seatalk.htm
+* http://marinux.pk973.org/
+* https://launchpad.net/ubuntu/+source/gypsy
 
 Hardware
 --------
