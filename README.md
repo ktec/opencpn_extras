@@ -15,7 +15,7 @@ As the repository grows we'll improve the directory structure.
 Other great links
 -----------------
 
-- https://github.com/OpenCPN/OpenCPN
+[OpenCPN Github Source](https://github.com/OpenCPN/OpenCPN)
 - https://github.com/bdbcat/OpenCPN
 - https://github.com/nohal/OpenCPNScripts
 - http://opencpn.xtr.cz
@@ -63,7 +63,8 @@ Sources of Data
 
 British Oceanographic Data Center - https://www.bodc.ac.uk/data/online_delivery/nodb/
 Tides - ftp://ftp.bsh.de/Stroemungsvorhersagen
-
+MyOcean - http://www.myocean.eu/web/24-catalogue.php
+Norwegian Meteorological Institute - http://met.no/
 
 GIS Software
 ------------
