@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="Converted from KML by C2GPXKML.rex" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+<time>20120211 18:29:30</time>
+     <wpt lat="12.351731076" lon="-83.68529967400001">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Laguna de Perlas</name>
+            <link href="http://vianica.com/nicaragua/raas/laguna-de-perlas/17.8">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="12.487747965" lon="-83.35421205900001">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Cayos de Perlas</name>
+            <link href="http://vianica.com/attraction/93/pearl-cays">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="12.012580346" lon="-83.762230754">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Bluefields</name>
+            <link href="http://en.wikipedia.org/wiki/Bluefields">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="21.2288" lon="-86.73435000000001">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Isla Mujeres</name>
+            <link href="http://www.isla-mujeres.com.mx/english/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="21.04405" lon="-86.722533333">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Punta Nizuc</name>
+            <link href="http://www.isla-mujeres.com.mx/english/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="20.495433333" lon="-87.224766667">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Isla Cozumel</name>
+            <link href="http://www.islacozumel.com.mx/play/attractions/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="19.601233333" lon="-87.41206666700001">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Pajaros</name>
+            <link href="http://www.isla-mujeres.com.mx/english/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="19.371283333" lon="-87.47981666699999">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Isla Chal</name>
+            <link href="http://www.myfishmaps.com/intl-fishing-maps/Mexico/fishing-Natural_Land_Structures/Island/Quintana_Roo/Isla_Chal/">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="18.7274" lon="-87.68845">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Costa Maya</name>
+            <link href="http://www.isla-mujeres.com.mx/english/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="18.273416667" lon="-87.83005">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Xcalac</name>
+            <link href="http://www.xcalak-info.com/">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="17.743416667" lon="-88.027983333">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Caye Caulker</name>
+            <link href="http://www.isla-mujeres.com.mx/english/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="17.491683333" lon="-88.17945">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Belize City</name>
+            <link href="http://www.isla-mujeres.com.mx/english/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="16.804583333" lon="-88.23943333299999">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Sittee Point</name>
+            <link href="http://www.hotelplanner.com/Hotels/248660-Hopkins/Deal-Belizean-Dreams-Resort-Sittee-Point-Rd-">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="16.101266667" lon="-88.799433333">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Orange Point</name>
+            <link href="http://realestate.belizelogue.com/a-880-7023-orange-point-marina-development.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="15.814683333" lon="-88.753916667">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Livingston</name>
+            <link href="http://robcarley.blogspot.com/2006/01/livingston-guatemalas-caribbean.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="15.770216667" lon="-88.837133333">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Rio Dulce</name>
+            <link href="http://www.isla-mujeres.com.mx/english/index.html">
+               <text>Tourist info</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="23.087016667" lon="-82.500898333">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Marina Hemingway</name>
+            <link href="http://www.portbooker.com/en/marinas/cuba/provincia-de-ciudad-de-la-habana/havana/port-marina-hemingway">
+               <text>Marina</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="23.13135054" lon="-81.29849129500001">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Marina Dársena de Varadero</name>
+            <link href="http://www.portbooker.com/en/marinas/cuba/provincia-de-matanzas/varadero/marina-darsena-de-varadero">
+               <text>Marina</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="22.244414316" lon="-83.57128918399999">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Cayo Largo Yacht Club Marina</name>
+            <link href="http://www.portbooker.com/en/marinas/cuba/provincia-de-pinar-del-rio/la-coloma/cayo-largo-yacht-club-marina">
+               <text>Marina</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="21.075578134" lon="-75.95445340800001">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Marina Internacional Puerto de Vita</name>
+            <link href="http://www.cubaroutes.com/show.aspx?type=NA cod=22 lng=2">
+               <text>Marina</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="20.011555064" lon="-75.846294582">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Marina Santiago de Cuba</name>
+            <link href="http://www.portbooker.com/en/marinas/cuba/provincia-de-santiago-de-cuba/santiago-de-cuba/marina-santiago-de-cuba">
+               <text>Marina</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="22.576440415" lon="-78.640779391">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Marina Cayo Coco-Guillermo</name>
+            <link href="http://www.portbooker.com/en/marinas/cuba/provincia-de-ciego-de-Avila/maximo-gomez/marina-cayo-coco-guillermo">
+               <text>Marina</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+     <wpt lat="9.028770406" lon="-79.61637807699999">
+            <cmt></cmt>
+            <time>2012-02-11T18:29:00L</time>
+            <name>Panama Canal</name>
+            <link href="http://www.yachtmarine.com/AIS/PANAMA%20CANAL%20TRIP.html">
+               <text>Traversing the Panama Canal</text>
+            </link>
+            <link href="http:/www.yachtmarine.com/AIS/MAT-PANAMA.htm">
+               <text>AIS-targets</text>
+            </link>
+            <link href="http://www.pcgov.org/">
+               <text>Panama City</text>
+            </link>
+            <link href="http://www.city-travel-guide.co.uk/travel-guide/balboa-panama-travel-guide.html">
+               <text>Balboa City</text>
+            </link>
+            <link href="http://www.tripwolf.com/en/guide/show/682256/Panama/Panama/Central-Caribbean-Coast/Colon-and-Cristobal">
+               <text>Colon  Cristobal</text>
+            </link>
+            <link href="http://www.panama-trips.com/gatun-lake-is-the-second-biggest-man-made-lake">
+               <text>Gatun Lake</text>
+            </link>
+            <desc></desc>
+            <sym>info</sym>
+     </wpt>
+</gpx>
