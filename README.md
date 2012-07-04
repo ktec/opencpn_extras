@@ -10,6 +10,7 @@ As the repository grows we'll improve the directory structure.
 * navigation > waypoints/nav marks useful for navigational purposes
 * tides > data files for tide calculations
 * weather > layers relating to weather services or features
+* polar > pol files for different boats
 
 
 Other great links
@@ -58,10 +59,13 @@ Sources of Data
 * [MyOcean](http://www.myocean.eu/web/24-catalogue.php)
 * [Norwegian Meteorological Institute](http://met.no/)
 
-GIS Software
+Software
 ------------
 
-* http://freegis.org/database/?cat=0
+* [GIS Software](http://freegis.org/database/?cat=0)
+* [MapCal](http://www.dacust.com/inlandwaters/mapcal/)
+* [MapCal-template-to-bsb-template](http://www.cruisersforum.com/forums/f134/mc2bsbh-mapcal-template-to-bsb-template-conversion-32337-10.html#post406851)
+* [MAPC2MAPC](http://www.the-thorns.org.uk/mapping/)
 
 Multiplex Software
 ------------------
