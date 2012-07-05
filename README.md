@@ -64,6 +64,7 @@ Sources of Data
 Software
 ------------
 
+* [QtVlm opensource routing](http://wiki.virtual-loup-de-mer.org/index.php/QtVlm/en)
 * [GIS Software](http://freegis.org/database/?cat=0)
 * [MapCal](http://www.dacust.com/inlandwaters/mapcal/)
 * [MapCal-template-to-bsb-template](http://www.cruisersforum.com/forums/f134/mc2bsbh-mapcal-template-to-bsb-template-conversion-32337-10.html#post406851)
