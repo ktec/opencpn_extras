@@ -1,7 +1,8 @@
 OpenCPN Extras
 ==============
 
-Complimentary files for use with OpenCPN
+Complimentary files for use with OpenCPN, with an emphasis on community driven
+open source solutions, rather than commercial offerings.
 
 As the repository grows we'll improve the directory structure. 
 
