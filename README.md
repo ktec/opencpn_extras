@@ -46,6 +46,7 @@ Points of Interest
 Chart Sources
 -------------
 
+* [Open Nautical Charts](http://opennauticalchart.org/?q=node/22)
 * [USGS Maps](http://archive.org/details/maps_usgs)
 * [Dutch Inland U5Inland](ftp://www.risserver.nl/ENC/)
 * [Zeeland Inland 20120611_U6](ftp://www.risserver.nl/ENC/zeeland/)
